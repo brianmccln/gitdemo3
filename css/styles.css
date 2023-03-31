@@ -3,7 +3,7 @@ body {
     color: #123;
     margin: 30px;
     font-family: sans-serif;
-    text-align: center;
+    /* text-align: center; */
 }
 
 h1, h2, h3, h4 {
